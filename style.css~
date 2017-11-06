@@ -1,0 +1,155 @@
+
+.pas{
+background-color:darkred;
+
+ -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+     animation: mymove 5s infinite;
+
+
+color:white;
+font-style:times new roman;
+padding-top:5%;
+padding-bottom:5%;
+padding-right:15%;
+padding-left:25%;
+
+
+border-style:solid;
+border-width:60%;
+border-top-color:gray;
+border-bottom:20%;
+border-radius:10px;
+
+margin:2% 1%;
+}
+
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes mymove {
+    from {background-color: red;}
+    to {background-color: blue;}
+}
+
+/* Standard syntax */
+@keyframes mymove {
+    from {background-color: red;}
+    to {background-color: blue;}
+}
+
+
+  .body
+{
+background-color:grey;
+margin:0 auto;
+width:90%;
+clear:both;
+}
+
+a:link {
+    text-decoration: none;
+background-color:orange;
+}
+
+a:visited {
+    text-decoration: none;background-color:orange;color: white;
+    padding: 14px 25px;
+    text-align: center;	
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover {
+    text-decoration: none;background-color:green;
+}
+
+a:active {
+    text-decoration: underline;background-color:red;
+}
+.mainHeader nav
+{
+background-color:grey;
+height:40px;
+border-radius:5px;
+padding-right:10%;
+padding-left:20%;
+
+-moz-border-radius:5px;
+-webkit-border-radius:5px;
+}
+.mainHeader nav ul
+{
+list-style:none;
+margin:0 auto;
+
+}
+
+.mainHeader ul li
+{
+float:left;
+display:inline;
+
+}
+
+.mainHeader nav a:link, .mainHeader nav a:visited
+{
+color:#FFF;
+display:inline-block;
+padding:10px 25px;
+height:20px;
+}
+
+.mainHeader nav a:hover, .mainHeader nav a:active, .mainHeader nav .active  a:link;
+.mainHeader nav .active a:visited
+{
+background-color:#CF5C3F;
+text-shadow:none;
+}
+
+
+.mainHeader nav ul li a
+{
+
+border-radius:5px;
+-moz-border-radius:5px;
+-webkit-border-radius:5px;
+
+}
+
+#para
+{
+    font-style: italic;
+	color:white;
+}
+.hhead{font-style: normal;
+color:orange;}
+
+
+
+.para1
+{
+    font-style: italic;
+	color:aqua;
+}
+#hhead1{font-style: normal;
+color:yellow;}
+
+.great{font-style:cursive;color:lime;}
+
+.agreat{font-style:italic;color:aqua;}
+
+
+.bgreat{font-style:italic;color:lime;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

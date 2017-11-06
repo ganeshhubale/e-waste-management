@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<head>
+	<link rel="stylesheet" href="style.css" />
+</head>
+<body class="body">
+<h1 class="pas">E-WASTE MANAGEMENT SERVICE</h1>
+<div class="mainHeader">
+<header>
+<nav><ul>
+<li><a href="home.html">Home</a></li>
+<li><a href="howitw.html">How it works</a></li>
+<li><a href="awairenes.html">Awareness</a></li>
+<li><a href="contact.html">Contact us</a></li>
+<li><a href="about.html">About us</a></li>
+</ul></nav>
+</header>
+</div>
+<p>"E-waste" is a popular, informal name for electronic products nearing the end of their "useful life.<br> "E-wastes are considered dangerous, as certain components of some electronic products contain materials that are hazardous, depending on their condition and density.<br> The hazardous content of these materials pose a threat to human health and environment.<br> Discarded computers, televisions, VCRs, stereos, copiers, fax machines, electric lamps, cell phones, audio equipment and batteries if improperly disposed can leach lead and other substances into soil and groundwater.<br>Many of these products can be <div class="great">Reused,Reduced and Recycled</div> in an environmentally sound manner so that they are less harmful to the ecosystem.<br> <div class="great">This WEBSITE highlights the hazards of e-wastes, the need for its appropriate management and options that can be implemented.<br>Also website gives the new way to communicate with E-waste producer.</div></p>
+
+<div class="great">
+<h3>Our Mission is to recycle your electronics in a safe and environmentally sound manner.</h3>
+</div>
+<h3>Our team</h3>
+<ul>
+<li>suraj jadhav</li>
+<li>ganesh hubale</li>
+<li>prashant jadhav</li>
+<li>priydarshini Kamble</li>
+
+</ul>
+<footer>
+  <p>© 2016 mini project All Rights Reserved</p>
+  <p>Contact information: <a href="www.ganeshhubale03@gamil.com">someone@example.com</a>.</p>
+</footer>
+</body>
+</html>

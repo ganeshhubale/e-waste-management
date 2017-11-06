@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<head>
+	<link rel="stylesheet" href="style.css" />
+</head>
+<body class="body">
+<h1 class="pas">E-WASTE MANAGEMENT SERVICE</h1>
+
+<div class="mainHeader">
+<header>
+<nav><ul>
+<li><a href="home.html">Home</a></li>
+<li><a href="howitw.html">How it works</a></li>
+<li><a href="awairenes.html">Awareness</a></li>
+<li><a href="contact.html">Contact us</a></li>
+<li><a href="about.html">About us</a></li>
+</ul></nav>
+</header>
+</div>
+<h6>Electronics have become more and more prevalent in our everyday lives. As today’s new gadgets quickly become yesterday’s old technology, we’re left with the question: what will happen with the old stuff?
+
+</h6><div class="bgreat">
+<h1>3R TO MANAGE E-WASTE...</h1><hr>
+<ul>
+   <li> REDUCE</li>
+   <li> RECYCLE</li>
+    <li>REUSE</li>
+</ul>
+</div>
+
+<h4>There is a common mantra that many of us where taught as children but do not always think of on a daily basis. The mantra is reduce, reuse, recycle, otherwise known as the three "R"...
+</h4><br>
+<div id="para">
+<p>
+<div class="great"> <h2>REDUCE</h2></div>
+<hr>
+<p1>
+When you avoid making garbage in the first place, you don't have to worry about disposing of waste or recycling it later.<br>Changing your habits is the key — think about ways you can reduce your waste when you shop, work and play.<br>There's a ton of ways for you to reduce waste, save yourself some time and money, and be good to the Earth at the same time.<br>
+The first goal of source reduction is simply to reduce the overall amount of waste that is produced.<br> The second goal is to conserve resources by not using raw, virgin materials. In other words, by following source reduction, fewer raw materials will have to be used to produce products.
+</p1><br>
+<div class="great"><h2>RECYCLE</h2></div>
+<hr><P2>
+Recycling involves collecting, processing and selling products made from old materials. A recycled plastic soda bottle is chipped, melted, and made into fiber, which becomes a jacket or sleeping bag stuffing. The old material in a new product is called recycled content.<br>
+There are lots of things that fall into this category and includes items such as alarm clocks; CD/DVD/Cassette players and game consoles; small kitchen appliances such as kettles, toasters, food mixers and blenders, microwave ovens; personal grooming products like hairdryers, straighteners, curling tongs, electric toothbrushes and shavers; garden tools such as lawnmowers, hedge trimmers and leaf blowers/shredders; other items such as lamps, torches, vacuum cleaners, telephones, mobiles, radios, TV's, printers, camcorders, cameras and smoke alarms.
+
+</P2><br>
+<div class="great"><h2>REUSE</h2></div>
+<hr><p3>
+The third most important strategy of the three Rs is to reuse, which is when an item is cleaned and the materials are used again. This concept can be difficult because we currently live in a world with many disposable items and it takes some imagination and creativity to see how items can be reused.<br>
+There are two main ways that the concept of reusing can be applied to reduce waste.<br> First, when purchasing a new item, you can look for a product that can be used repeatedly instead of a version that is only used once and thrown away.<br>The second way to reuse is to buy an item secondhand, borrow, or rent an item, instead of buying the product new.<br>
+Although the items you reuse may eventually end up being waste, by reusing them you are reducing the overall amount of waste produced by giving the item a second function and expanding the typical lifespan of the item. The process of reusing can also be fun because it gives you the opportunity to take an old or used item and turn it into something new to you.
+</p3>
+</p></div><br>
+<footer>
+  <p>© 2016 mini project All Rights Reserved</p>
+  <p>Contact information: <a href="www.ganeshhubale03@gamil.com">someone@example.com</a>.</p>
+</footer>
+</body>
+</html>
